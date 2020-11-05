@@ -2,10 +2,10 @@
     "config": {
         "abort": {
             "auth_failed": "Niepoprawne uwierzytelnienie",
-            "cannot_connect": "Nie mo\u017cna nawi\u0105za\u0107 po\u0142\u0105czenia",
-            "conn_error": "Nie mo\u017cna nawi\u0105za\u0107 po\u0142\u0105czenia",
+            "cannot_connect": "Nie mozna nawi\u0105za\u0107 po\u0142\u0105czenia",
+            "conn_error": "Nie mozna nawi\u0105za\u0107 po\u0142\u0105czenia",
             "invalid_auth": "Niepoprawne uwierzytelnienie",
-            "single_instance_allowed": "Ju\u017c skonfigurowano. Mo\u017cliwa jest tylko jedna konfiguracja."
+            "single_instance_allowed": "Juz skonfigurowano. Mozliwa jest tylko jedna konfiguracja."
         },
         "error": {
             "auth_failed": "Niepoprawne uwierzytelnienie",
@@ -16,26 +16,26 @@
             "user": {
                 "data": {
                     "country_code": "Kod kraju twojego konta (np. 1 dla USA lub 86 dla Chin)",
-                    "password": "Has\u0142o",
-                    "platform": "Aplikacja, w kt\u00f3rej zarejestrowane jest Twoje konto",
-                    "username": "Nazwa u\u017cytkownika"
+                    "password": "Haslo",
+                    "platform": "Aplikacja, w ktorej zarejestrowane jest Twoje konto",
+                    "username": "Nazwa uzytkownika"
                 },
-                "description": "Wprowad\u017a dane uwierzytelniaj\u0105ce",
+                "description": "Wprowadz dane uwierzytelniajace",
                 "title": "Tuya"
             }
         }
     },
     "options": {
         "error": {
-            "dev_multi_type": "Wybrane urz\u0105dzenia do skonfigurowania musz\u0105 by\u0107 tego samego typu",
-            "dev_not_config": "Typ urz\u0105dzenia nie jest konfigurowalny",
-            "dev_not_found": "Nie znaleziono urz\u0105dzenia"
+            "dev_multi_type": "Wybrane urzadzenia do skonfigurowania musza byc tego samego typu",
+            "dev_not_config": "Typ urzadzenia nie jest konfigurowalny",
+            "dev_not_found": "Nie znaleziono urzadzenia"
         },
         "step": {
             "device": {
                 "data": {
-                    "brightness_range_mode": "Zakres jasno\u015bci u\u017cywany przez urz\u0105dzenie",
-                    "curr_temp_divider": "Dzielnik aktualnej warto\u015bci temperatury (0 = u\u017cyj warto\u015bci domy\u015blnej)",
+                    "brightness_range_mode": "Zakres jasnosci urzywany przez urzadzenie",
+                    "curr_temp_divider": "Dzielnik aktualnej wartosci temperatury (0 = uzyj warto\u015bci domy\u015blnej)",
                     "ext_temp_sensor": "Sensor aktualnej temperatury",
                     "max_kelvin": "Maksymalna obs\u0142ugiwana temperatura barwy w kelwinach",
                     "max_temp": "Maksymalna temperatura docelowa (u\u017cyj min i max = 0 dla warto\u015bci domy\u015blnej)",
